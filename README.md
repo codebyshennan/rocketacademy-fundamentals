@@ -1,2 +1,2 @@
-# rocketacademy-fundamentals
+# setup
 Created with CodeSandbox
