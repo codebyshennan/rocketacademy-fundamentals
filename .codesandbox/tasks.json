@@ -6,7 +6,7 @@
   "tasks": {
     "init": {
       "name": "init",
-      "command": "pnpm run start",
+      "command": "pnpm install & pnpm run start",
       "runAtStart": true,
       "preview": {
         "port": 3000
